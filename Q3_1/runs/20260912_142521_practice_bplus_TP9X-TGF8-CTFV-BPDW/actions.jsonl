@@ -1,0 +1,1 @@
+{"utc":"2026-09-12T06:25:21.328377+00:00","path":"/enter","request":{"arena_id":"default","robot_id":"<redacted>","request_id":"q3-p-1789194321-7c034f-enter-1"},"attempts":1,"http_status":200,"response":{"accepted":false,"real_timestamp_ms":1789194320565,"virtual_time_s":0},"error":"accepted_not_true","wall_elapsed_s":0.053456}

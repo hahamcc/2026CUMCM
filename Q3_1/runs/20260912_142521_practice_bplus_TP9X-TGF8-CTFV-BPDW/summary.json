@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "mode": "practice",
+  "case_code": "TP9X-TGF8-CTFV-BPDW",
+  "algorithm": "bplus",
+  "outer_route_start": null,
+  "outer_route_direction": null,
+  "formal_unlocked_at_start": false,
+  "end_reason": "stopped_with_error",
+  "exit_reason": null,
+  "error": "ActionRejected: 动作未被接受: HTTP 200, response={'accepted': False, 'real_timestamp_ms': 1789194320565, 'virtual_time_s': 0}",
+  "cleared_count": 0,
+  "actual_source_count": null,
+  "clear_fraction": null,
+  "virtual_time_s": 0.0,
+  "average_location_clear_time_s": null,
+  "program_run_duration_s": null,
+  "remaining_real_s_at_summary": null,
+  "action_stats": {
+    "move_distance_m": 0.0,
+    "measure_count": 0,
+    "switch_count": 0,
+    "clear_success_count": 0,
+    "clear_failure_count": 0,
+    "bplus_edge_stop_count": 0,
+    "bplus_extra_measure_count": 0,
+    "bplus_opportunity_clear_count": 0
+  },
+  "status_counts": {
+    "unknown_unexcluded": 20,
+    "found_uncleared": 0,
+    "cleared": 0,
+    "excluded": 0
+  },
+  "channels": {
+    "1": {
+      "status": "unknown_unexcluded",
+      "direction_observations": 0,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    },
+    "2": {
+      "status": "unknown_unexcluded",
+      "direction_observations": 0,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    },
+    "3": {
+      "status": "unknown_unexcluded",
+      "direction_observations": 0,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    },
+    "4": {
+      "status": "unknown_unexcluded",
+      "direction_observations": 0,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    },
+    "5": {
+      "status": "unknown_unexcluded",
+      "direction_observations": 0,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    },
+    "6": {
+      "status": "unknown_unexcluded",
+      "direction_observations": 0,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    },
+    "7": {
+      "status": "unknown_unexcluded",
+      "direction_observations": 0,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    },
+    "8": {
+      "status": "unknown_unexcluded",
+      "direction_observations": 0,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    },
+    "9": {
+      "status": "unknown_unexcluded",
+      "direction_observations": 0,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    },
+    "10": {
+      "status": "unknown_unexcluded",
+      "direction_observations": 0,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    },
+    "11": {
+      "status": "unknown_unexcluded",
+      "direction_observations": 0,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    },
+    "12": {
+      "status": "unknown_unexcluded",
+      "direction_observations": 0,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    },
+    "13": {
+      "status": "unknown_unexcluded",
+      "direction_observations": 0,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    },
+    "14": {
+      "status": "unknown_unexcluded",
+      "direction_observations": 0,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    },
+    "15": {
+      "status": "unknown_unexcluded",
+      "direction_observations": 0,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    },
+    "16": {
+      "status": "unknown_unexcluded",
+      "direction_observations": 0,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    },
+    "17": {
+      "status": "unknown_unexcluded",
+      "direction_observations": 0,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    },
+    "18": {
+      "status": "unknown_unexcluded",
+      "direction_observations": 0,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    },
+    "19": {
+      "status": "unknown_unexcluded",
+      "direction_observations": 0,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    },
+    "20": {
+      "status": "unknown_unexcluded",
+      "direction_observations": 0,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    }
+  }
+}

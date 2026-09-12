@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "mode": "practice",
+  "case_code": "4KDJ-4WGK-2TND-DCZT",
+  "algorithm": "bplus",
+  "outer_route_start": 1,
+  "outer_route_direction": 1,
+  "formal_unlocked_at_start": false,
+  "end_reason": "completed_by_program",
+  "exit_reason": "user_exit",
+  "error": null,
+  "cleared_count": 16,
+  "actual_source_count": null,
+  "clear_fraction": null,
+  "virtual_time_s": 4544.33474,
+  "average_location_clear_time_s": 284.02092125,
+  "program_run_duration_s": 1.4273198999871965,
+  "remaining_real_s_at_summary": 1198.572382400016,
+  "action_stats": {
+    "move_distance_m": 19521.673701482603,
+    "measure_count": 94,
+    "switch_count": 90,
+    "clear_success_count": 16,
+    "clear_failure_count": 0,
+    "bplus_edge_stop_count": 6,
+    "bplus_extra_measure_count": 29,
+    "bplus_opportunity_clear_count": 2
+  },
+  "status_counts": {
+    "unknown_unexcluded": 0,
+    "found_uncleared": 0,
+    "cleared": 16,
+    "excluded": 4
+  },
+  "channels": {
+    "1": {
+      "status": "cleared",
+      "direction_observations": 3,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": 29.47028160434271,
+      "final_mec_radius_m": 15.221255774112636
+    },
+    "2": {
+      "status": "cleared",
+      "direction_observations": 5,
+      "no_signal_count": 1,
+      "clear_failure_count": 0,
+      "final_diameter_m": 16.795694873308832,
+      "final_mec_radius_m": 8.552147547132893
+    },
+    "3": {
+      "status": "excluded",
+      "direction_observations": 0,
+      "no_signal_count": 7,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    },
+    "4": {
+      "status": "cleared",
+      "direction_observations": 4,
+      "no_signal_count": 3,
+      "clear_failure_count": 0,
+      "final_diameter_m": 23.327837007224883,
+      "final_mec_radius_m": 11.663918503612441
+    },
+    "5": {
+      "status": "cleared",
+      "direction_observations": 3,
+      "no_signal_count": 1,
+      "clear_failure_count": 0,
+      "final_diameter_m": 17.271603720274538,
+      "final_mec_radius_m": 8.635801860137269
+    },
+    "6": {
+      "status": "cleared",
+      "direction_observations": 3,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": 36.75804871253638,
+      "final_mec_radius_m": 18.37902435626819
+    },
+    "7": {
+      "status": "cleared",
+      "direction_observations": 3,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": 38.54390166373707,
+      "final_mec_radius_m": 19.368050834502306
+    },
+    "8": {
+      "status": "cleared",
+      "direction_observations": 3,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": 33.29637123586038,
+      "final_mec_radius_m": 16.64818561793019
+    },
+    "9": {
+      "status": "excluded",
+      "direction_observations": 0,
+      "no_signal_count": 7,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    },
+    "10": {
+      "status": "cleared",
+      "direction_observations": 3,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": 26.071521010965128,
+      "final_mec_radius_m": 13.035760505482564
+    },
+    "11": {
+      "status": "cleared",
+      "direction_observations": 3,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": 39.44551004238835,
+      "final_mec_radius_m": 19.83845711691092
+    },
+    "12": {
+      "status": "cleared",
+      "direction_observations": 3,
+      "no_signal_count": 2,
+      "clear_failure_count": 0,
+      "final_diameter_m": 13.293286877446604,
+      "final_mec_radius_m": 6.646643438723302
+    },
+    "13": {
+      "status": "cleared",
+      "direction_observations": 3,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": 37.62775716761156,
+      "final_mec_radius_m": 18.81387858380578
+    },
+    "14": {
+      "status": "cleared",
+      "direction_observations": 2,
+      "no_signal_count": 4,
+      "clear_failure_count": 0,
+      "final_diameter_m": 15.80247265066103,
+      "final_mec_radius_m": 7.901236325330515
+    },
+    "15": {
+      "status": "excluded",
+      "direction_observations": 0,
+      "no_signal_count": 7,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    },
+    "16": {
+      "status": "cleared",
+      "direction_observations": 4,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": 31.34156137655185,
+      "final_mec_radius_m": 15.670780688275926
+    },
+    "17": {
+      "status": "excluded",
+      "direction_observations": 0,
+      "no_signal_count": 7,
+      "clear_failure_count": 0,
+      "final_diameter_m": null,
+      "final_mec_radius_m": null
+    },
+    "18": {
+      "status": "cleared",
+      "direction_observations": 4,
+      "no_signal_count": 0,
+      "clear_failure_count": 0,
+      "final_diameter_m": 20.05178936812506,
+      "final_mec_radius_m": 10.098232529929858
+    },
+    "19": {
+      "status": "cleared",
+      "direction_observations": 2,
+      "no_signal_count": 1,
+      "clear_failure_count": 0,
+      "final_diameter_m": 37.37317282892899,
+      "final_mec_radius_m": 18.686586414464497
+    },
+    "20": {
+      "status": "cleared",
+      "direction_observations": 4,
+      "no_signal_count": 2,
+      "clear_failure_count": 0,
+      "final_diameter_m": 33.8805408980644,
+      "final_mec_radius_m": 16.9402704490322
+    }
+  }
+}
