@@ -1,0 +1,10 @@
+# IDE local state
+.idea/
+
+# Python bytecode and tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local generated summaries
+runs_summary.csv
